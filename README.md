@@ -1,3 +1,6 @@
 # bankapi
-API for bank services
+API for bank services, using Express.
+
+
+
 
